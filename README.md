@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yash-at-git
-- 👀 I’m interested in learning coding , programming (c++,c,java)
-- 🌱 I’m currently a student(1st year)
-- 💞️ I’m looking for someone who can teach me about coding..
+- 👋 Hi, I’m Yash
+- 👀 I’m interested in learning cyber security and web dev.
+- 🌱 I’m currently a student(2nd year)
+- 💞️ I’m looking for someone who can teach me
 - 
 
 <!---
