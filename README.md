@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yash
-- 👀 I’m interested in learning cyber security and web dev.
-- 🌱 I’m currently a student(2nd year)
+- 🌱 I’m currently a student
 - 💞️ I’m looking for someone who can teach me
 - 
 
