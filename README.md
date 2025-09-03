@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash
 - 🌱 I’m currently a student
-- 💞️ I’m looking for someone who can teach me
+- 💞️ I’m looking for someone to callaborate with
 - 
 
 <!---
