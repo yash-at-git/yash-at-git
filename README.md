@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yash Kumar 👋</h1>
 
 <p align="center">
-💻 Java Developer | Backend Engineer | Spring Boot Specialist | AI Integration Explorer
+💻 Java Developer | Backend Engineer | Spring Boot | AI Integration Explorer
 </p>
 
 <p align="center">
